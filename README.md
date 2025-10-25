@@ -1,7 +1,5 @@
 # **TipPredictor**
 
-## Overview
-
 TipPredictor is an AI-powered machine learning system designed to predict tip amounts for waiters based on customer, bill, and dining details. By leveraging multiple regression algorithms and structured data processing, this system provides accurate predictions, helping restaurants optimize service strategies and understand tipping behavior.
 
 ## Objective
