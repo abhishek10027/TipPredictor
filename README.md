@@ -53,7 +53,8 @@ The system uses structured data with the following features:
 
 1. **Input Data:** User provides bill and customer details.
 
-   ![Input Example](path_to_input_image)
+   <img width="572" height="149" alt="image" src="https://github.com/user-attachments/assets/7cb1b6fd-a486-4e5c-867b-3b55e3cd7f39" />
+
 
 2. **Data Processing:** Categorical values are encoded into numeric format.
 
@@ -61,7 +62,8 @@ The system uses structured data with the following features:
 
 4. **Prediction Output:** Displays the predicted tip amount.
 
-   ![Prediction Output](path_to_output_image)
+   <img width="489" height="32" alt="image" src="https://github.com/user-attachments/assets/26028732-8539-4d8e-8b55-b23bb3bc33a6" />
+
 
 ## Future Enhancements
 
@@ -78,10 +80,7 @@ TipPredictor provides a practical, interpretable, and reliable solution for pred
 Developed by **Abhishek Kushwaha**
 
 🔗 LinkedIn: [https://www.linkedin.com/in/abhishek10027](https://www.linkedin.com/in/abhishek10027)
+
 💻 GitHub: [https://github.com/abhishek10027](https://github.com/abhishek10027)
 
----
 
-If you want, I can **also make a fully polished GitHub-ready version with badges, GIF/images, and a professional layout** like a real portfolio project page.
-
-Do you want me to do that?
