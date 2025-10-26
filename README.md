@@ -34,6 +34,14 @@ The system uses structured data with the following features:
 * **Label Encoding:** For binary categories like `sex` and `smoker`.
 * **Mapping:** For multi-class features like `day` and `time`.
 
+
+## **Distribution of Group Sizes**
+
+<img width="929" height="702" alt="image" src="https://github.com/user-attachments/assets/bd73ee49-cece-48db-a6ca-6faa459b4567" />
+
+The dataset shows that most orders are from parties of **2 people**, with 156 occurrences, making it the most common group size. Medium-sized groups of **3 and 4 people** have 38 and 37 orders respectively, while single-person and large parties of **5 or 6 people** are rare, with only 4–5 orders each. This distribution is likely because small groups, such as couples or friends dining together, are more frequent in restaurants, whereas very large parties are less common. Understanding this pattern helps analyze tipping behavior and how party size may influence tip amounts.
+
+
 ## **Evaluation Metrics**
 
 Evaluation metrics help measure how well the regression model predicts tips. The main metrics used in TipPredictor are:
